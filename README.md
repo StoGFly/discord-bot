@@ -5,10 +5,25 @@ you are going to use this for your own use, please
 before you take the code.
 ## Installing The Bot
 Lets get to installing the bot!
-### Clone The Repository to Your Machine
-Before we even get started, clone the repo.
+### Fork The Repository
+Before we even get started, fork the repo.
 
-Note: I assume that you know how to clone a repository.
-If you don't, you can 
-[view the help page here](https://help.github.com/en/articles/cloning-a-repository).
-###
+Note: I assume that you know how to fork a repository.
+### Create the bot and insert your token
+Go to https://discordapp.com/developers/applications/.
+If you haven't already created your bot,
+click on **New Application**. Then, on
+the left, click on **Bot**. Under Token,
+click **Copy**. Now, go to the forked
+config.ts file. On line 2, replace
+"YOUR TOKEN HERE" with your token that
+you just copied. That's it.
+## What's next?
+Well, I will be updating this repository whenever Dapper
+Dino adds command tutorials. I STRONGLY suggest watching
+them. There is a link above to the playlist. It is also
+important to
+[keep your fork synced with this repo](https://help.github.com/en/articles/fork-a-repo#keep-your-fork-synced),
+so that when I roll out new features, they will sync with your forked copy.
+I also will be adding README's to the commands, so please be keep your fork
+synced with the repo. Thanks.

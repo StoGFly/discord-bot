@@ -26,4 +26,6 @@ important to
 [keep your fork synced with this repo](https://help.github.com/en/articles/fork-a-repo#keep-your-fork-synced),
 so that when I roll out new features, they will sync with your forked copy.
 I also will be adding README's to the commands, so please be keep your fork
-synced with the repo. Thanks.
+synced with the repo. If you have any new commands to add, feel free
+to submit a pull request on your fork to me, and I may pull your
+ideas into this repo! Thanks.
